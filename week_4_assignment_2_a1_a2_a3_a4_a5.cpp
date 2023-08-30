@@ -53,4 +53,4 @@ int main(){
 // int *ptr;
 // *ptr = 5;
 
-// no its incorret as we have not assigned any value to pointer ptr
+// Even if we try to print value of *ptr or ptr, no results come but at the same time no error occurs;
